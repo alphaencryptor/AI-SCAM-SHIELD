@@ -1,0 +1,21 @@
+text,label
+"Congratulations! You won a lottery prize. Click the link to claim your reward.",scam
+"Your bank account will be blocked. Verify your KYC immediately.",scam
+"Urgent! Your account has been suspended. Send OTP to restore it.",scam
+"Your UPI payment failed. Verify your bank details immediately.",scam
+"You have received a cashback reward. Click here to claim now.",scam
+"Your package is waiting. Pay the delivery fee using this link.",scam
+"Your credit card will be blocked. Confirm your password immediately.",scam
+"Congratulations winner! Pay processing fees to receive your prize.",scam
+"Your electricity connection will be disconnected today. Pay immediately.",scam
+"Your account requires verification. Enter your OTP now.",scam
+"Meeting scheduled for tomorrow at 10 AM.",safe
+"Your order has been delivered successfully.",safe
+"Your monthly bank statement is now available.",safe
+"Your college assignment is due tomorrow.",safe
+"Your payment of 500 rupees was successful.",safe
+"Your package will arrive tomorrow.",safe
+"Thank you for registering for the event.",safe
+"Your appointment has been confirmed.",safe
+"Your password was successfully changed.",safe
+"Your subscription has been renewed successfully.",safe
